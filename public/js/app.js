@@ -1,5 +1,3 @@
-console.log('client side js file loaded!!')
-
 
 
 const form=document.querySelector('form')
